@@ -1,2 +1,2 @@
 # Unique-Characters
-Personal functions to check if a string is composed of unique characters.
+Functions to check if a string is composed of unique characters.
